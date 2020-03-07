@@ -1,5 +1,5 @@
 #waifu-toggle {
-	background-color: #fa0;
+	background-color: #191d21;
 	border-radius: 5px;
 	bottom: 66px;
 	color: #fff;
@@ -52,7 +52,7 @@
 	line-height: 24px;
 	margin: -30px 20px;
 	min-height: 70px;
-	opacity: 0;
+	opacity: 0.3;
 	overflow: hidden;
 	padding: 5px 10px;
 	position: absolute;
@@ -94,7 +94,7 @@
 }
 
 #waifu-tool span {
-	color: #5b6c7d;
+	color: #fff;
 	cursor: pointer;
 	display: block;
 	line-height: 30px;
